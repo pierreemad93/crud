@@ -1,0 +1,17 @@
+{
+    "name": "g207/crud",
+    "description": "this is for G207 & G198 students",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "G207\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pierreemad93",
+            "email": "pierreemad93@outlook.com"
+        }
+    ],
+    "require": {}
+}
